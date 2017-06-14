@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\android\\androidSample\\code\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\act_navi_drawer.xml",
+        "source": "C:\\android\\androidSample\\code\\MyApplication\\app\\src\\main\\res\\menu\\act_navi_drawer.xml"
+    },
+    {
+        "merged": "C:\\android\\androidSample\\code\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\act__navi.xml",
+        "source": "C:\\android\\androidSample\\code\\MyApplication\\app\\src\\main\\res\\menu\\act__navi.xml"
+    }
+]
